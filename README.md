@@ -1,2 +1,2 @@
 # hdoop-assgn-count
-A python project to count the no of ittereations of a word in a text file.
+A python project to count the no of iterations of a word in a text file.
